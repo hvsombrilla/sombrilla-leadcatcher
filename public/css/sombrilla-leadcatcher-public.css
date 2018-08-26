@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+@font-face {
+	font-family: "ETmodules";
+	src: url("../fonts/modules.eot");
+	src: url("../fonts/modules.eot?#iefix") format("embedded-opentype"), url("../fonts/modules.ttf") format("truetype"), url("../fonts/modules.woff") format("woff"), url("../fonts/modules.svg#ETmodules") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
